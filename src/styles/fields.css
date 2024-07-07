@@ -1,0 +1,30 @@
+.fields-upper{
+background:url('../../public/images/fields-bg.jpg') no-repeat;
+background-size:cover;
+min-height:600px;
+}
+.fields-upper h2{
+    margin-bottom:60px;
+}
+.fields-lower{
+    min-height:800px;
+    padding-bottom:128px;
+}
+.fields-content{
+    margin-top:-150px;
+}
+.field-content img {
+    width:100%;
+    height:300px;
+    object-fit:cover;
+}
+.field-content{
+    margin-bottom:40px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+}
+.field-padding{
+    padding:40px;
+}
+.field-content h4{
+    margin-bottom:30px;
+}

@@ -1,0 +1,36 @@
+.class-sub-header{
+    width:60%;   
+}
+.class-section h2{
+    margin-bottom:60px;
+}
+.class-section button{
+    color:#fff;
+    margin-top:34px;
+    margin-bottom:75px;
+}
+.class-section-image-container{
+    width:70%;
+    min-height:500px;
+    background-color:#555;
+    margin:0 auto;
+    position:relative;
+}
+.class-main-image{
+    width:100%; 
+    height:547px;
+    position:absolute;
+    top:0;
+    left:0;
+    background:url('../../public/images/class/class-img.jpg');
+    background-size:cover;
+}
+.class-phone-img{
+    position:absolute;
+    top:-50px;
+    right:-30px;
+    background:url('../../public/images/class/phone.png') no-repeat;
+    width:230px;
+    height:680px;
+    background-size:cover;
+}
